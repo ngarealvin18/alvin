@@ -1,0 +1,30 @@
+ul{
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      background-color: #7df30a;
+      overflow: hidden;
+    }
+    li{
+      float: left;
+    }
+    li a{
+      padding: 25px;
+      display: block;
+      text-decoration: none;
+      color: white;
+    }
+    h1{
+      text-align: center;
+      color: black;
+      font-size: 50px;
+      font-family: "Tlwg Typist";
+    }
+    li a:hover{
+      background-color: black;
+    }
+  body{
+            background-image: url("assets/images/pad1.jpeg");
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
